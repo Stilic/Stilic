@@ -1,5 +1,4 @@
-# Hi there 👋
-I am Stylix58, a great dev from France!
+![Header](headergithub.png)
 
 [Discord](https://discord.gg/HAsGSHF) | [Wesbite](https://stylix58.netlify.app/)
 
