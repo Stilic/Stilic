@@ -1,8 +1,6 @@
 ![Header](headergithub.png)
 
-[Discord](https://discord.gg/HAsGSHF) | [Wesbite](https://stylix58.netlify.app/)
-
-<img width="100" src="python.png" alt="Python"> <img width="100" src="html5.png" alt="HTML5">
+[Discord](https://discord.gg/HAsGSHF) | [Wesbite](https://stlix.noho.st/)
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=Stylix58&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
