@@ -1,7 +1,7 @@
 # Hi, I'm Stilic!
 I am a 14 years old independant developper.
 I like coding in some languages like Python, PHP and Javascript.
-I making also [some Sonic fangame](https://gamejolt.com/@Stylix58/games).
+I making also [some Sonic fangame](https://gamejolt.com/@Stilic/games).
 
 [Discord](https://discord.gg/TUVegAgtaN) | [Website](https://stilic.ynh.fr)
 
