@@ -1,6 +1,9 @@
 # Hi, I'm Stilic!
-I am a 16 years old independant developper.
-I like coding in some languages like Python, PHP and Javascript.
-I made also [some Sonic fangame](https://gamejolt.com/@Stilic/games).
+
+I'm a self-taught 16-years-old software engineer (as a hobby for now).
+
+I know a few languages like JavaScript, Python, Haxe...
+
+My pronouns are he/him.
 
 [Website](https://stilic.ml)
