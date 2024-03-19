@@ -4,6 +4,8 @@
 
 set -e -o pipefail
 
+NIX_CHANNEL=nixos-23.11
+
 autodetectProvider() {
   if [ -e /etc/hetzner-build ]; then
     PROVIDER="hetznercloud"
